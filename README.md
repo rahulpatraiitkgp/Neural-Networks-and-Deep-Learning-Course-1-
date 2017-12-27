@@ -1,3 +1,14 @@
-# Neural-Networks-and-Deep-Learning-Course-1-
-## Coursera: deeplearning.ai (Andrew Ng)
-If you want to break into cutting-edge AI, this course will help you do so. Deep learning engineers are highly sought after, and mastering deep learning will give you numerous new career opportunities. Deep learning is also a new "superpower" that will let you build AI systems that just weren't possible a few years ago.   In this course, you will learn the foundations of deep learning. When you finish this class, you will: - Understand the major technology trends driving Deep Learning - Be able to build, train and apply fully connected deep neural networks  - Know how to implement efficient (vectorized) neural networks  - Understand the key parameters in a neural network's architecture   This course also teaches you how Deep Learning actually works, rather than presenting only a cursory or surface-level description. So after completing it, you will be able to apply deep learning to a your own applications. If you are looking for a job in AI, after this course you will also be able to answer basic interview questions.   This is the first course of the Deep Learning Specialization.
+# Deep Learning Specialization [Coursera]
+## Course 1
+
+**Master Deep Learning, and Break into AI**
+
+Instructor: [Andrew Ng](http://www.andrewng.org/)
+
+## Introduction
+
+This repo contains all my work for Course 1 of the specialization [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning).
+
+## Please Read:
+
+As a CS mainor student and a long-time self-taught learner, I have completed many CS related MOOCs on Coursera, Udacity, Udemy, and Edx. I do understand the hard time you spend on understanding new concepts and debugging your program. Here I released these solutions, which are **only for your reference purpose**. It may help you to save some time. And I hope you don't copy any part of the code (the programming assignments are fairly easy if you read the instructions carefully), see the quiz solutions before you start your own adventure. This course is almost the simplest deep learning course I have ever taken, but the simplicity is based on the fabulous course content and structure. It's a treasure given by deeplearning.ai team.
